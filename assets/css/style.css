@@ -6259,7 +6259,7 @@ hr {
   background-color: #000; /* Dark background color */
   margin: 10% auto; /* Center the modal vertically and horizontally */
   padding: 20px;
-  max-width: 700px;
+  max-width: 800px;
   border: 1px solid #eee;
   width: 80%; /* Could be more or less, depending on screen size */
   position: relative; /* Relative position for child elements */
